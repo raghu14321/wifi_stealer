@@ -1,0 +1,4 @@
+subprocess.run
+termcolor
+pyinstaller
+
